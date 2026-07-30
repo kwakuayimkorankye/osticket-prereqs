@@ -20,7 +20,7 @@ This section will demonstrate the prerequisites and installation of the open-sou
 <h2>Installation Steps</h2>
 
 <h2>Step 1: Download the Files</h2>
-<p>To get started you first will download </p><a href="https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0">this link</a> <p>to install the necessary files to install osTicket</p>
+<p>To get started you first will download <a href="https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0">this link</a> to install the necessary files to install osTicket</p>
 
 <h2>Step 3: Download the Files</h2>
 
