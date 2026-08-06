@@ -7,7 +7,7 @@ This section will demonstrate the prerequisites and installation of the open-sou
 
 <h2>Demonstration</h2>
 
-- ### OSOSO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7T_JjvEamg?si=94yG6IEcjGo5eSlR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -189,8 +189,5 @@ osTicket
 <pre>http://localhost/osTicket/</pre>
 
 <p><b>🎉 Congratulations! Your osTicket help desk is ready to use.</b></p>
-Get smarter responses, upload files and images, and more.
-Log in
-Sign up for free
 
 <br />
