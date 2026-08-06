@@ -21,7 +21,7 @@ This section will demonstrate the prerequisites and installation of the open-sou
 
 <h2>Step 1: Download the Files</h2>
 
-<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick1.PNG" height="80%" width="80%" alt="Download Page/>
+<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick1.PNG" height="80%" width="80%" alt="Download Page"/>
 
 <p>To get started you first will download <a href="https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0">this link</a> to install the necessary files to install osTicket</p>
 
@@ -35,7 +35,7 @@ This section will demonstrate the prerequisites and installation of the open-sou
 <hr>
 
 <h2>Step 2: Turn On IIS</h2>
-<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick2.PNG" height="80%" width="80%" alt="Download Page/>
+<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick2.PNG" height="80%" width="80%" alt="Download Page"/>
 <p>Go to:</p>
 
 <pre>
@@ -78,7 +78,7 @@ Password: root
 <hr>
 
 <h2>Step 4: Set Up PHP</h2>
-<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick3.PNG" height="80%" width="80%" alt="Download Page/>
+<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick3.PNG" height="80%" width="80%" alt="Download Page"/>
 
 <ul>
   <li>Open IIS as Administrator.</li>
@@ -122,7 +122,7 @@ C:\inetpub\wwwroot
 
 <h2>Step 7: Configure osTicket</h2>
 
-<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick4.PNG" height="80%" width="80%" alt="Download Page/>
+<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick4.PNG" height="80%" width="80%" alt="Download Page"/>
 <p>Rename:</p>
 
 <pre>
