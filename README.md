@@ -6,8 +6,8 @@
 This section will demonstrate the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Demonstration</h2>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7T_JjvEamg?si=94yG6IEcjGo5eSlR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com/watch?v=K7T_JjvEamg)
+<a href="https://www.youtube.com/watch?v=K7T_JjvEamg">Demonstration Video</a>
 
 <h2>Environments and Technologies Used</h2>
 
