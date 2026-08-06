@@ -35,7 +35,7 @@ This section will demonstrate the prerequisites and installation of the open-sou
 <hr>
 
 <h2>Step 2: Turn On IIS</h2>
-<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick2.PNG" height="80%" width="80%" alt="Download Page"/>
+<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick2.PNG" height="80%" width="80%" alt="IIS"/>
 <p>Go to:</p>
 
 <pre>
@@ -78,7 +78,6 @@ Password: root
 <hr>
 
 <h2>Step 4: Set Up PHP</h2>
-<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick3.PNG" height="80%" width="80%" alt="Download Page"/>
 
 <ul>
   <li>Open IIS as Administrator.</li>
@@ -121,9 +120,10 @@ C:\inetpub\wwwroot
 <hr>
 
 <h2>Step 7: Configure osTicket</h2>
+<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick3.PNG" height="80%" width="80%" alt="osTIcket Loading Page"/>
 
-<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick4.PNG" height="80%" width="80%" alt="Download Page"/>
 <p>Rename:</p>
+<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick4.PNG" height="80%" width="80%" alt="Sample Confing"/>
 
 <pre>
 ost-sampleconfig.php
