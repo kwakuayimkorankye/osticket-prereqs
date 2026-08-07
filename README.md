@@ -142,6 +142,7 @@ ost-config.php
 <hr>
 
 <h2>Step 8: Create the Database</h2>
+<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick11.PNG" height="80%" width="80%" alt="HeidiSQL"/>
 
 <ul>
   <li>Install HeidiSQL.</li>
@@ -162,6 +163,7 @@ osTicket
 <hr>
 
 <h2>Step 9: Finish Setup</h2>
+<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick13.PNG" height="80%" width="80%" alt="HeidiSQL"/>
 
 <p>Fill in:</p>
 
