@@ -56,6 +56,7 @@ Internet Information Services
 <hr>
 
 <h2>Step 3: Install the Programs</h2>
+<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick5.PNG" height="80%" width="80%" alt="Installing"/>
 
 <p>Install these in order:</p>
 
@@ -106,7 +107,7 @@ C:\inetpub\wwwroot
 <hr>
 
 <h2>Step 6: Enable PHP Extensions</h2>
-
+<img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick6.PNG" height="80%" width="80%" alt="Installing"/>
 <p>In IIS → PHP Manager, enable:</p>
 
 <ul>
@@ -120,6 +121,7 @@ C:\inetpub\wwwroot
 <hr>
 
 <h2>Step 7: Configure osTicket</h2>
+
 <img src="https://github.com/kwakuayimkorankye/osticket-prereqs/blob/main/ostick3.PNG" height="80%" width="80%" alt="osTIcket Loading Page"/>
 
 <p>Rename:</p>
